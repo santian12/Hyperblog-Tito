@@ -18,4 +18,22 @@ margin: 0 auto;
 width: 70%;
 text-align: justify;
 border: 1px solid purple ;
+font-size: 20px;
+}
+#cabecera{
+    height: 60px;
+    box-shadow: 0px 2px 20px 0px rgb(0,0,0,0.5) ;
+   font-weight: bold;
+   margin: 0px;
+   padding:0,5rem ;
+    color: rgb(255, 255, 255);
+    background-color: rgb(55, 33, 199);
+   font-size: 30px;
+   text-align: center;
+}
+#cabecera #tagline {
+padding: 1rem 0 0 0;
+font-weight: normal;
+font-size: 0,8rem;
+
 }
