@@ -71,3 +71,10 @@ font-size: 0,8rem;
     padding: 0.5rem;
 
 }
+#img{
+    width: 500px; 
+    height: 200px;
+   padding: 0,5rem;
+    margin:10px auto;
+	display:block;
+}
