@@ -5,5 +5,5 @@ Este blog es gracias al curso de git y github de platzi ademas de contribuir a m
 
 * hola
 * estoy tratando de pasar el curso
-
+* llevo tres exmanes eguidos con nota de 8
 ## Nunca pares de aprender
